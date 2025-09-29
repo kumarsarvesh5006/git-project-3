@@ -1,1 +1,2 @@
-hello git & github
+hello git & GitHub.
+ it is version control system
