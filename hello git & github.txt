@@ -1,2 +1,3 @@
 hello git & GitHub.
- it is version control system
+it is version control system.
+it is a vcs.
