@@ -1,0 +1,9 @@
+				Main commands.
+1. git init -- current folder ko git repository mai badal deta hai.
+2. git add . -->current directory or uske andar ki sbhi files ko mai hue changes ko staging area mai add krna.
+3. git commit -m "message" --> jo changes staging area mai hai, unhe git repository mai ek message ke saath permanently save krna
+   -m -- message
+   commit --aapke code ya project ke current changes ko save karna
+4. git remote add origin paste the repository url
+5. git push -u origin main -->yeh local machine ke folder mai hue changes ko iss command se git hub ke repository mai bhi change kr deta hai.
+
